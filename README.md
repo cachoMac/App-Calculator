@@ -1,5 +1,9 @@
 # App Calculator
 
+![jkguy](https://user-images.githubusercontent.com/98904606/192081807-ad0e3f38-ea2b-481c-9660-2a87d7fdd83a.PNG)
+![ghfuyh](https://user-images.githubusercontent.com/98904606/192081808-b1b056bf-c9dd-4dea-8410-ffb40f910398.PNG)
+
+
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
 When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
